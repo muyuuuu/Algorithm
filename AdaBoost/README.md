@@ -1,0 +1,3 @@
+- `SAMME_1_depth.py`最简易的提升树实现，选用了SAMME算法。
+- `SAMME_4_depth.py`将分类器改为深度为4的决策树，提高分类准确性。
+- `plot_SAMME_error_rate.py`分类器为深度为3的决策树，绘制训练误差和测试误差的图像。
