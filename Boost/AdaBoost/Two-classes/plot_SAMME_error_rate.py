@@ -5,7 +5,6 @@ from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import zero_one_loss
 from sklearn import datasets
-import matplotlib.pyplot as plt
 
 # Construct dataset
 # 创建8000数据 4个特征 2个类
