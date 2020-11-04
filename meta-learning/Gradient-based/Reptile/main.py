@@ -75,7 +75,8 @@ class SineModel(nn.Module):
 
 def do_base_learning(model, wave, lr_inner, n_inner):
     new_model = SineModel()
-    new_model.load_state_dict(model.state_dict())  # copy? looks okay
+    # 要求网络结构一样
+    new_model.load_state_dict(model.state_dict()) 
     inner_optimizer = torch.optim.SGD(new_model.parameters(), lr=lr_inner)
     # K steps of gradient descent
     for i in range(n_inner):
