@@ -62,7 +62,7 @@ class Compare(nn.Module):
 
 
     # 训练：开始比较
-    def forward(self, support_x, support_y, query_x, query_y, train=True):
+    def forward(self, support_x, support_y, query_x, query_y, rank, train=True):
         """
 
         """
@@ -132,7 +132,7 @@ class Compare(nn.Module):
                     idx = np.array(sim).argmax()
                     pred.append(support_y_np[i, idx * self.k_shot])
             # pred: [b, querysz]
-            pred = Variable(torch.from_numpy(np.array(pred).reshape((batchsz, querysz)))).cuda()
+            pred = Variable(torch.from_numpy(np.array(pred).reshape((batchsz, querysz)))).cuda().to(rank)
 
             correct = torch.eq(pred, query_y).sum()
             return pred, correct

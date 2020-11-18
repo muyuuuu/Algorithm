@@ -3,7 +3,6 @@ import os
 import time
 import numpy as np
 from torch import optim
-from torchsummary import summary
 from torch.autograd import Variable
 from compare import Compare
 from miniImagenet import MiniImagenet
@@ -141,6 +140,5 @@ if __name__ == '__main__':
                 with open('../output/loss.txt', 'a') as f:
                     f.write('loss: {}\n'.format(loss.cpu().item()))
 
-    summary(net, (2, 3, 234, 234))
     end = time.time()
     print("cost time is {}".format(end - since))

@@ -1,11 +1,18 @@
-代码参考：https://github.com/dragen1860/LearningToCompare-Pytorch
+注意：代码无法在CPU环境中执行。
 
-补了中文注释。
+# 环境依赖
 
-待做：
+- `torch: 1.6`
+- `python: 3.7`
+- 四路`Tesla P40`
 
-1. 可视化模型结构
-2. 统计参数数量
-3. 保存 mini-imagenet 数据集
-4. 写一下 mini-imagenet 数据集读取方法
-5. 
+# 执行方式
+
+- `python train_dataparallel.py`，Dataparallel并行方式
+- `python train_ddp.py`，DistributedDataparallel并行方式
+
+# 试验结果
+
+## 准确率与损失
+
+## 加速情况
