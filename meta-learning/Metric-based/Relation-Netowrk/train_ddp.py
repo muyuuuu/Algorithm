@@ -1,7 +1,5 @@
 import torch
 import os
-1
-2
 import gc 
 import time
 import numpy as np

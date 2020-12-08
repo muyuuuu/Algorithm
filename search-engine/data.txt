@@ -1,0 +1,13 @@
+Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name.
+Iron Man, An industrialist, genius inventor, and consummate playboy.
+Captain America is a fictional superhero appearing in American comic books published by Marvel Comics.
+Black Widow is an upcoming American superhero film based on the Marvel Comics character of the same name.
+Superman is a fictional superhero, The character was created by writer Jerry Siegel and artist Joe Shuster, and first appeared in Action Comics #1, a comic book published on April 18, 1938.
+Python is an interpreted, high-level, general-purpose programming language.
+The LaTeX system is a markup language that handles typesetting and rendering, and can be arbitrarily extended by using the underlying macro language to develop custom macros such as new environments and commands.
+Vim is a highly configurable text editor for efficiently creating and changing any kind of text.
+Peking or Beijing is the capital city of the People's Republic of China.
+California is a state in the Pacific Region of the United States. With 39.5 million residents across a total area of about 163,696 square miles (423,970 km2), California is the most populous US state and the third-largest by area.
+Arduino is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices.
+English is a West Germanic language that was first spoken in early medieval England and eventually became a global lingua franca.
+C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".

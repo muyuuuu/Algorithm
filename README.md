@@ -2,18 +2,9 @@
 
 把自己用到的一些算法的代码整理下来，以深度学习和机器学习为主。
 
-# 炼丹类
-
-## 聚类
-
-**KDE聚类：** 通过核密度估计(Kernel Density Estimation)对数据分布按极值划分区间，进而完成聚类。https://muyuuuu.github.io/2020/03/30/KDE-cluster
-
-## 分类
-
-**AdaBoost：** 提升算法，分类器为决策树，绘制训练误差和迭代误差。SAMME：https://muyuuuu.github.io/2020/04/02/adaboost
-
-# 数据结构类
-
-## 插入排序
-
-两种复杂度的时间，建议理解时间复杂度的重要性。https://muyuuuu.github.io/2020/03/02/algorithm-time-complexity/
+- `Boost`：简单的[提升算法](https://muyuuuu.github.io/2020/04/02/adaboost/)。
+- `Insert_sort`：插入排序，对比[不同复杂度算法](https://muyuuuu.github.io/2020/03/02/algorithm-time-complexity/)的耗时。
+- `KDE-cluser`：[核密度聚类](https://muyuuuu.github.io/2020/03/30/KDE-cluster/)。
+- `meta-learning`：基于梯度和基于度量的[小样本学习](https://muyuuuu.github.io/2020/09/20/meta-learning/)。
+- `PSO`：[粒子群算法](https://muyuuuu.github.io/2020/12/07/pso-ga-sa/)及其可视化，目前只适配到单决策变量。
+- `search-engine`：[搜索引擎](https://muyuuuu.github.io/2019/05/19/search-engine/)涉及的结构和算法，倒排索引和`TF-IDF`，待完善`pagerank`算法。

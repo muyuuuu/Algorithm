@@ -1,0 +1,606 @@
+{
+    "iron": [
+        1,
+        2
+    ],
+    "man": [
+        1
+    ],
+    "is": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        10,
+        11,
+        12,
+        13
+    ],
+    "a": [
+        1,
+        3,
+        5,
+        5,
+        7,
+        8,
+        10,
+        10,
+        12,
+        12,
+        13
+    ],
+    "2008": [
+        1
+    ],
+    "american": [
+        1,
+        3,
+        4
+    ],
+    "superhero": [
+        1,
+        3,
+        4
+    ],
+    "film": [
+        1,
+        4
+    ],
+    "based": [
+        1,
+        4
+    ],
+    "on": [
+        1,
+        4,
+        5
+    ],
+    "the": [
+        1,
+        1,
+        4,
+        4,
+        5,
+        7,
+        7,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10,
+        13
+    ],
+    "marvel": [
+        1,
+        3,
+        4
+    ],
+    "comics": [
+        1,
+        4,
+        5
+    ],
+    "character": [
+        1,
+        4,
+        5
+    ],
+    "of": [
+        1,
+        4,
+        8,
+        9,
+        9,
+        10,
+        10,
+        13
+    ],
+    "same": [
+        1,
+        4
+    ],
+    "name.": [
+        1,
+        4
+    ],
+    "man,": [
+        2
+    ],
+    "an": [
+        2,
+        4,
+        6,
+        11,
+        13
+    ],
+    "industrialist,": [
+        2
+    ],
+    "genius": [
+        2
+    ],
+    "inventor,": [
+        2
+    ],
+    "and": [
+        2,
+        5,
+        5,
+        7,
+        7,
+        7,
+        8,
+        10,
+        11,
+        11,
+        11,
+        11,
+        12
+    ],
+    "consummate": [
+        2
+    ],
+    "playboy.": [
+        2
+    ],
+    "captain": [
+        3
+    ],
+    "america": [
+        3
+    ],
+    "fictional": [
+        3,
+        5
+    ],
+    "appearing": [
+        3
+    ],
+    "in": [
+        3,
+        5,
+        10,
+        12
+    ],
+    "comic": [
+        3,
+        5
+    ],
+    "books": [
+        3
+    ],
+    "published": [
+        3,
+        5
+    ],
+    "by": [
+        3,
+        5,
+        7,
+        10,
+        13
+    ],
+    "comics.": [
+        3
+    ],
+    "black": [
+        4
+    ],
+    "widow": [
+        4
+    ],
+    "upcoming": [
+        4
+    ],
+    "superman": [
+        5
+    ],
+    "superhero,": [
+        5
+    ],
+    "was": [
+        5,
+        12
+    ],
+    "created": [
+        5,
+        13
+    ],
+    "writer": [
+        5
+    ],
+    "jerry": [
+        5
+    ],
+    "siegel": [
+        5
+    ],
+    "artist": [
+        5
+    ],
+    "joe": [
+        5
+    ],
+    "shuster,": [
+        5
+    ],
+    "first": [
+        5,
+        12
+    ],
+    "appeared": [
+        5
+    ],
+    "action": [
+        5
+    ],
+    "#1,": [
+        5
+    ],
+    "book": [
+        5
+    ],
+    "april": [
+        5
+    ],
+    "18,": [
+        5
+    ],
+    "1938.": [
+        5
+    ],
+    "python": [
+        6
+    ],
+    "interpreted,": [
+        6
+    ],
+    "high-level,": [
+        6,
+        13
+    ],
+    "general-purpose": [
+        6,
+        13
+    ],
+    "programming": [
+        6,
+        13,
+        13
+    ],
+    "language.": [
+        6
+    ],
+    "latex": [
+        7
+    ],
+    "system": [
+        7
+    ],
+    "markup": [
+        7
+    ],
+    "language": [
+        7,
+        7,
+        12,
+        13
+    ],
+    "that": [
+        7,
+        11,
+        12
+    ],
+    "handles": [
+        7
+    ],
+    "typesetting": [
+        7
+    ],
+    "rendering,": [
+        7
+    ],
+    "can": [
+        7
+    ],
+    "be": [
+        7
+    ],
+    "arbitrarily": [
+        7
+    ],
+    "extended": [
+        7
+    ],
+    "using": [
+        7
+    ],
+    "underlying": [
+        7
+    ],
+    "macro": [
+        7
+    ],
+    "to": [
+        7
+    ],
+    "develop": [
+        7
+    ],
+    "custom": [
+        7
+    ],
+    "macros": [
+        7
+    ],
+    "such": [
+        7
+    ],
+    "as": [
+        7,
+        13
+    ],
+    "new": [
+        7
+    ],
+    "environments": [
+        7
+    ],
+    "commands.": [
+        7
+    ],
+    "vim": [
+        8
+    ],
+    "highly": [
+        8
+    ],
+    "configurable": [
+        8
+    ],
+    "text": [
+        8
+    ],
+    "editor": [
+        8
+    ],
+    "for": [
+        8,
+        11
+    ],
+    "efficiently": [
+        8
+    ],
+    "creating": [
+        8
+    ],
+    "changing": [
+        8
+    ],
+    "any": [
+        8
+    ],
+    "kind": [
+        8
+    ],
+    "text.": [
+        8
+    ],
+    "peking": [
+        9
+    ],
+    "or": [
+        9,
+        13
+    ],
+    "beijing": [
+        9
+    ],
+    "capital": [
+        9
+    ],
+    "city": [
+        9
+    ],
+    "people's": [
+        9
+    ],
+    "republic": [
+        9
+    ],
+    "china.": [
+        9
+    ],
+    "california": [
+        10,
+        10
+    ],
+    "state": [
+        10,
+        10
+    ],
+    "pacific": [
+        10
+    ],
+    "region": [
+        10
+    ],
+    "united": [
+        10
+    ],
+    "states.": [
+        10
+    ],
+    "with": [
+        10,
+        13
+    ],
+    "39.5": [
+        10
+    ],
+    "million": [
+        10
+    ],
+    "residents": [
+        10
+    ],
+    "across": [
+        10
+    ],
+    "total": [
+        10
+    ],
+    "area": [
+        10
+    ],
+    "about": [
+        10
+    ],
+    "163,696": [
+        10
+    ],
+    "square": [
+        10
+    ],
+    "miles": [
+        10
+    ],
+    "(423,970": [
+        10
+    ],
+    "km2),": [
+        10
+    ],
+    "most": [
+        10
+    ],
+    "populous": [
+        10
+    ],
+    "us": [
+        10
+    ],
+    "third-largest": [
+        10
+    ],
+    "area.": [
+        10
+    ],
+    "arduino": [
+        11
+    ],
+    "open-source": [
+        11
+    ],
+    "hardware": [
+        11
+    ],
+    "software": [
+        11
+    ],
+    "company,": [
+        11
+    ],
+    "project": [
+        11
+    ],
+    "user": [
+        11
+    ],
+    "community": [
+        11
+    ],
+    "designs": [
+        11
+    ],
+    "manufactures": [
+        11
+    ],
+    "single-board": [
+        11
+    ],
+    "microcontrollers": [
+        11
+    ],
+    "microcontroller": [
+        11
+    ],
+    "kits": [
+        11
+    ],
+    "building": [
+        11
+    ],
+    "digital": [
+        11
+    ],
+    "devices.": [
+        11
+    ],
+    "english": [
+        12
+    ],
+    "west": [
+        12
+    ],
+    "germanic": [
+        12
+    ],
+    "spoken": [
+        12
+    ],
+    "early": [
+        12
+    ],
+    "medieval": [
+        12
+    ],
+    "england": [
+        12
+    ],
+    "eventually": [
+        12
+    ],
+    "became": [
+        12
+    ],
+    "global": [
+        12
+    ],
+    "lingua": [
+        12
+    ],
+    "franca.": [
+        12
+    ],
+    "c++": [
+        13
+    ],
+    "bjarne": [
+        13
+    ],
+    "stroustrup": [
+        13
+    ],
+    "extension": [
+        13
+    ],
+    "c": [
+        13
+    ],
+    "language,": [
+        13
+    ],
+    "\"c": [
+        13
+    ],
+    "classes\".": [
+        13
+    ]
+}
