@@ -10,3 +10,4 @@
 - `search-engine`：[搜索引擎](https://muyuuuu.github.io/2019/05/19/search-engine/)涉及的结构和算法，倒排索引和`TF-IDF`，待完善`pagerank`算法。
 - `regress-certain-func`：给定数据，给定方程，拟合出方程中的系数。
 - `causal-dilated-conv`：[因果扩张卷积]()。
+- `NMS`：基于 `numpy` 实现的非极大值抑制算法。
